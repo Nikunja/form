@@ -1,1 +1,10 @@
-
+<html>
+  <body>
+      <form action="//formspree.io/nikunjmohapatra@gmail.com"
+      method="POST"
+      <input type="text" name="name">
+      <input type="email" name="_replyto">
+      <input type="submit" name="Send">
+</form>
+  </body>
+</html>
